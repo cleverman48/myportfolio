@@ -83,7 +83,7 @@ function Projects() {
               title="portfolio site for desiner"
               description="I completed portfolio site for artist.Here I only used HTML,JS ans CSS."
               ghLink="https://github.com/cleverman48/portpolio-site.git"
-              // demoLink="https://blogs.soumya-jit.tech/"      <--------Please include a demo link here 
+              demoLink="https://cleverman-portfolio-2c77a.web.app"
             />
           </Col>
         </Row>
